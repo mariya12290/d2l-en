@@ -14,6 +14,7 @@ Deep learning lectures with exercises in tensorflow
 * Norms - 63
 * Exercises - 65 
 * Linear algebra
+  * Norms
 * Calculus
 * Automatic differentiation
 * Probability
